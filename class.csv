@@ -1,0 +1,59 @@
+ Math   120B     INTRO RINGS/FIELDS      (Prerequisites),,,,,,,,,,,,,,,,
+Code,Type,Sec,Units,Instructor,Time,Place,Final,Max,Enr,WL,Req,Nor,Rstr,Textbooks,Web,Status
+45040,Lec,A,4,"WOLFSON, J.",MWF   10:00-10:50,SSTR 103,"Mon, Mar 14, 10:30-12:30pm",58,45,0,59,0,A and L,Bookstore,,OPEN
+45041,Dis,A1,0,"TAO, T.",TuTh   3:00- 3:50p,SSTR 103,,58,45,0,47,0,A and L,Bookstore,,OPEN
+45044,Lec,B,4,"CHEONG, G.",MWF   4:00- 4:50p,DBH 1500,"Wed, Mar 16, 4:00-6:00pm",60,60,7,78,0,A and L,Bookstore,,Waitl
+45045,Dis,B1,0,"LEE, K.",MW   1:00- 1:50p,SSTR 103,,60,60,8,69,0,A and L,Bookstore,,Waitl
+I&C Sci   45C     PROGRAM IN C/C++      (Prerequisites),,,,,,,,,,,,,,,,
+Code,Type,Sec,Units,Instructor,Time,Place,Final,Max,Enr,WL,Req,Nor,Rstr,Textbooks,Web,Status
+35630,Lec,A,4,"KLEFSTAD, R.",TuTh   11:00-12:20p,DBH 1100,"Tue, Mar 15, 10:30-12:30pm",246,156,0,205,0,A,Bookstore,,OPEN
+I&C Sci   45J     PROGRAMMING IN JAVA      (Prerequisites),,,,,,,,,,,,,,,,
+Code,Type,Sec,Units,Instructor,Time,Place,Final,Max,Enr,WL,Req,Nor,Rstr,Textbooks,Web,Status
+35640,Lec,A,4,"NAVARRO, E.",TuTh   12:30- 1:50p,VRTL REMOTE,"Fri, Mar 18, 10:30-12:30pm",250,137,0,225,0,A and N,Bookstore,,OPEN
+ I&C Sci   51     INTRO COMPUTER ORG      (Prerequisites),,,,,,,,,,,,,,,,
+Code,Type,Sec,Units,Instructor,Time,Place,Final,Max,Enr,WL,Req,Nor,Rstr,Textbooks,Web,Status
+35670,Lec,A,6,"WONG-MA, J.",TuTh   8:00- 9:20,HSLH 100A,"Tue, Mar 15, 8:00-10:00am",300,200,n/a,275,0,A and N,Bookstore,,OPEN
+35671,Dis,1A,0,STAFF,W   7:00- 7:50p,HSLH 100A,,300,200,n/a,218,0,A and N,Bookstore,,OPEN
+,,,,"WONG-MA, J.",,,,,,,,,,,,
+35681,Lab,A1,0,STAFF,TuTh   9:30-10:50,TBA,,38,38,n/a,40,0,A and N,Bookstore,,FULL
+,,,,"WONG-MA, J.",,,,,,,,,,,,
+35682,Lab,A2,0,STAFF,TuTh   11:00-12:20p,TBA,,38,38,n/a,42,0,A and N,Bookstore,,FULL
+,,,,"WONG-MA, J.",,,,,,,,,,,,
+35683,Lab,A3,0,STAFF,TuTh   12:30- 1:50p,TBA,,38,33,n/a,42,0,A and N,Bookstore,,OPEN
+,,,,"WONG-MA, J.",,,,,,,,,,,,
+35684,Lab,A4,0,STAFF,TuTh   2:00- 3:20p,TBA,,37,34,n/a,39,0,A and N,Bookstore,,OPEN
+,,,,"WONG-MA, J.",,,,,,,,,,,,
+35685,Lab,A5,0,STAFF,TuTh   3:30- 4:50p,TBA,,37,34,n/a,40,0,A and N,Bookstore,,OPEN
+,,,,"WONG-MA, J.",,,,,,,,,,,,
+35686,Lab,A6,0,STAFF,TuTh   5:00- 6:20p,TBA,,38,14,n/a,17,0,A and N,Bookstore,,OPEN
+,,,,"WONG-MA, J.",,,,,,,,,,,,
+35687,Lab,A7,0,STAFF,TuTh   6:30- 7:50p,TBA,,38,4,n/a,4,0,A and N,Bookstore,,OPEN
+,,,,"WONG-MA, J.",,,,,,,,,,,,
+35688,Lab,A8,0,STAFF,TuTh   8:00- 9:20p,TBA,,38,5,n/a,6,0,A and N,Bookstore,,OPEN
+,,,,"WONG-MA, J.",,,,,,,,,,,,
+Econ   105B     INTER QUANT ECON II      (Prerequisites),,,,,,,,,,,,,,,,
+Code,Type,Sec,Units,Instructor,Time,Place,Final,Max,Enr,WL,Req,Nor,Rstr,Textbooks,Web,Status
+62140,Lec,A,4,"ROBBINS, T.",    TBA,VRTL REMOTE,    TBA,190,90,0,107,0,A and L,Bookstore,,OPEN
+62141,Dis,A1,0,STAFF,M   5:00- 5:50p,VRTL REMOTE,,48,47,0,50,0,,Bookstore,,OPEN
+,,,,"ROBBINS, T.",,,,,,,,,,,,
+62142,Dis,A2,0,STAFF,M   6:00- 6:50p,VRTL REMOTE,,47,3,0,5,0,,Bookstore,,OPEN
+,,,,"ROBBINS, T.",,,,,,,,,,,,
+62143,Dis,A3,0,STAFF,Th   6:00- 6:50p,VRTL REMOTE,,48,25,0,25,0,,Bookstore,,OPEN
+,,,,"ROBBINS, T.",,,,,,,,,,,,
+62144,Dis,A4,0,STAFF,Th   7:00- 7:50p,VRTL REMOTE,,47,15,0,14,0,,Bookstore,,OPEN
+,,,,"ROBBINS, T.",,,,,,,,,,,,
+Stats   5     SEMINAR DATA SCI,,,,,,,,,,,,,,,,
+Code,Type,Sec,Units,Instructor,Time,Place,Final,Max,Enr,WL,Req,Nor,Rstr,Textbooks,Web,Status
+37100,Sem,A,1,"DOGUCU, M.",W   4:00- 4:50p,SH 134,    TBA,85,85,6,100,0,D,Bookstore,,Waitl
+Stats   111     STATS METH DATA II      (Prerequisites),,,,,,,,,,,,,,,,
+Code,Type,Sec,Units,Instructor,Time,Place,Final,Max,Enr,WL,Req,Nor,Rstr,Textbooks,Web,Status
+37220,Lec,A,4,"GULESSERIAN, S.",TuTh   9:30-10:50,ICS 174,"Thu, Mar 17, 8:00-10:00am",100,40,0,78,0,A and N,Bookstore,,OPEN
+37221,Lab,A1,0,STAFF,F   12:00-12:50p,SH 174,,50,30,0,29,0,A and N,Bookstore,,OPEN
+,,,,"GULESSERIAN, S.",,,,,,,,,,,,
+37222,Lab,A2,0,STAFF,F   1:00- 1:50p,SH 174,,50,10,0,9,0,A and N,Bookstore,,OPEN
+,,,,"GULESSERIAN, S.",,,,,,,,,,,,
+37230,Lec,B,4,"GULESSERIAN, S.",TuTh   11:00-12:20p,ICS 174,"Tue, Mar 15, 10:30-12:30pm",100,39,0,67,0,A and N,Bookstore,,OPEN
+37231,Lab,B1,0,STAFF,F   2:00- 2:50p,SH 128,,50,34,0,34,0,A and N,Bookstore,,OPEN
+,,,,"GULESSERIAN, S.",,,,,,,,,,,,
+37232,Lab,B2,0,STAFF,F   3:00- 3:50p,SH 128,,50,5,0,5,0,A and N,Bookstore,,OPEN
+,,,,"GULESSERIAN, S.",,,,,,,,,,,,
